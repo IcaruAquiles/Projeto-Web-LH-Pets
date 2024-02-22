@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "u+MxBJ+ur2GFBUXWXHGBR09Ab8cqk0WCdH6iiVrS/RM=",
+  "Source": "Projeto",
+  "BasePath": "_content/Projeto",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto\\wwwroot",
+      "Source": "Projeto",
+      "ContentRoot": "C:\\Users\\sd\\Documents\\Projeto\\wwwroot\\",
+      "BasePath": "_content/Projeto",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sd\\Documents\\Projeto\\wwwroot\\index.html",
+      "SourceId": "Projeto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sd\\Documents\\Projeto\\wwwroot\\",
+      "BasePath": "_content/Projeto",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

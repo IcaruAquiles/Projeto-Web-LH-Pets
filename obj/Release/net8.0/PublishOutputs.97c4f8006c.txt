@@ -1,0 +1,13 @@
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\Projeto.exe
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\appsettings.json
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\Projeto.dll
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\Projeto.deps.json
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\Projeto.runtimeconfig.json
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\Projeto.pdb
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sd\Documents\Projeto\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
